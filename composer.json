@@ -1,0 +1,12 @@
+{
+    "name": "diaa/pusher",
+    "authors": [
+        {
+            "name": "Diaa Ramadan",
+            "email": "diaa.attie@elmnassa.com"
+        }
+    ],
+    "require": {
+        "pusher/pusher-php-server": "^6.1"
+    }
+}
